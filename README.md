@@ -1,5 +1,5 @@
 # yasnippet files
 
-Based on [https://github.com/AndreaCrotti/yasnippet-snippets](Andrea
-Crotti's collection) but stripped down, tweaked a bit and with
-additions for rspec.
+Based on
+[Andrea Crotti's collection](https://github.com/AndreaCrotti/yasnippet-snippets)
+but stripped down, tweaked a bit and with additions for rspec.
