@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clear screen
+# key: cls
+# --
+<clear screen>
+
+$0
